@@ -17,7 +17,6 @@ Contents:
 How to use:
 -----------
 - For ApplicationSecurity: Deploy in a Java Servlet web project.
-- For screenshots: See the `screenshots` folder for example output images.  
 ![1](screenshots/Capture-2.PNG)
 
 - For OTP_Encryption: Compile and run ParallelOTP.java for a demo of OTP encryption using parallel arrays.
